@@ -1,0 +1,5 @@
+Light Blue is the primary colour.
+Dark blue can be used at some places. 
+Black text.
+White background.
+Organe for CTAs and other small elements
