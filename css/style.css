@@ -1,0 +1,71 @@
+body {
+    color: #777777;
+    /*font-family: "Poppins", sans-serif;*/
+    font-family: 'Manrope', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.5em;
+    position: relative;
+  }
+
+.hd{
+    background-color: #5c5c5c;
+}  
+
+.hd p{
+    color: white;
+}
+
+.hd span{
+    color: whitesmoke;
+    font-weight: bold;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: #5c5c5c;
+}
+
+.nvbar{
+    border-bottom: 3px solid sandybrown;
+}
+
+#parent{
+    position: relative;
+}
+
+#child-head{
+    position: absolute;
+    top: 5%;
+    left: 35%;
+    color: white
+}
+
+.child-down{
+    display: flexbox;
+    background-color: #5c5c5c;
+}
+
+.child-down h4{
+    color: white;
+}
+
+select{
+    /* box-sizing: border-box;
+    width: 25%;
+    height: 45%; */
+    border-radius: 3px;
+   color: #777777;
+}
+
+input{
+   color: #777777;
+}
+
+.butn{
+    color: white;
+    font-weight: bold;
+    background-color: rgb(226, 79, 10);
+   
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-color: orangered;
+}
